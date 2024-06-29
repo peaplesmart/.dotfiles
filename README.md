@@ -1,0 +1,2 @@
+# .dotfiles
+home-manager NixOS
