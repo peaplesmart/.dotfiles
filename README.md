@@ -1,2 +1,2 @@
 # .dotfiles
-home-manager NixOS
+home-manager NixOS i3WM
